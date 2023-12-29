@@ -1,10 +1,6 @@
 /*
  * Mini_Proj1.c
  *      Author: Amr Mohamed
- *      FaceBook Account Name: Amr Mohamed
- *      Group: 83
- *      FaceBook Account: https://www.facebook.com/amr.yossef.581
- *      Project Description: Vehicle Control System
  ===========================================================================================================
  */
 
